@@ -10,7 +10,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.8.1
 	github.com/spf13/cobra v1.0.0
-	github.com/spf13/viper v1.7.1
+	github.com/spf13/viper v1.8.1
 	golang.org/x/sys v0.0.0-20200819171115-d785dc25833f // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
